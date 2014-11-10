@@ -1,0 +1,28 @@
+{
+  "name": "StackQueueLinkedList",
+  "version": "0.1.0",
+  "description": "Data Structures",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecjs/StackQueueLinkedList.git"
+  },
+  "keywords": [
+    "data",
+    "structures"
+  ],
+  "author": "Mark Harrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecjs/StackQueueLinkedList/issues"
+  },
+  "homepage": "https://github.com/ecjs/StackQueueLinkedList",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs": "^0.8.1"
+  }
+}
